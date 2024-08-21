@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+data/
+glove/
+hindi_embedding/
+*.bin
+*.bin.gz
